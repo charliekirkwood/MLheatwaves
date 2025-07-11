@@ -1,0 +1,7 @@
+documentation_export/03_known_issues_and_limitations.pdf (application/pdf) 609607 bytes.
+documentation_export/04_additional_resources_and_tutorials.pdf (application/pdf) 1256341 bytes.
+241204_emdat_columns.csv (text/csv) 4988 bytes.
+documentation_export/05_about_emdat.pdf (application/pdf) 153107 bytes.
+documentation_export/02_data_collection_protocols.pdf (application/pdf) 200073 bytes.
+241204_emdat_archive.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 6694069 bytes.
+documentation_export/01_data_structure_and_content.pdf (application/pdf) 1428631 bytes.

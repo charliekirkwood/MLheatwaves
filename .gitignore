@@ -6,6 +6,8 @@
 .RData
 .RDataTmp
 
+/data/ERA5
+
 # User-specific files
 .Ruserdata
 
